@@ -1,0 +1,17 @@
+.venv/
+.git/
+.gitignore
+*.png
+*.jpg
+*.jpeg
+output*/
+__pycache__/
+*.pyc
+.cache/
+huggingface/
+stable-diffusion.cpp/
+models/
+README.md
+LICENSE
+generate.sh
+preflight_check.py
