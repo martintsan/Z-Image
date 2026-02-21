@@ -215,3 +215,5 @@ ckpts/
 
 # Ignore generated images
 /*.png
+
+stable-diffusion.cpp/
